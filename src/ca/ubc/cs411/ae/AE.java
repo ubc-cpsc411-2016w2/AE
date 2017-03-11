@@ -1,4 +1,4 @@
-package cs411.ae;
+package ca.ubc.cs411.ae;
 
 /**
  * Created by ronaldgarcia on 2017-01-05.
